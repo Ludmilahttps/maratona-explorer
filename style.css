@@ -7,7 +7,6 @@ body {
   color: white;
   text-align: center;
   font-family: sans-serif;
-  
 }
 
 #container {
@@ -31,7 +30,6 @@ p{
 input, button{
   display: block;
   width: 100%;
-  
   padding: 20px;
   font-size: 20px;
   border-radius: 4px;
